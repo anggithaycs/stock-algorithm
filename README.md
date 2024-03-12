@@ -6,4 +6,4 @@ Welcome to the Warung Stock Ordering Algorithm repository! This project aims to 
 - Categorizes stock into red (needs replenishment), yellow (excess stock), and green (optimal stock).
 - Facilitates informed purchasing decisions, leading to higher inventory turnover and better cash flow management.
 
-# Join us in revolutionizing inventory management for warungs and contributing to the success of small businesses in Indonesia!
+Join us in revolutionizing inventory management for warungs and contributing to the success of small businesses in Indonesia!
